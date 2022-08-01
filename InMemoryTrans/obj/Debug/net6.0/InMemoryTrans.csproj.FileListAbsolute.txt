@@ -1,0 +1,30 @@
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.exe
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.deps.json
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.runtimeconfig.json
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.pdb
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.csproj.AssemblyReference.cache
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.AssemblyInfoInputs.cache
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.AssemblyInfo.cs
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.csproj.CoreCompileInputs.cache
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\refint\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.pdb
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.genruntimeconfig.cache
+D:\Siemense_Problem\InMemoryTrans\InMemoryTrans\obj\Debug\net6.0\ref\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.exe
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.deps.json
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.runtimeconfig.json
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\bin\Debug\net6.0\InMemoryTrans.pdb
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.csproj.AssemblyReference.cache
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.AssemblyInfoInputs.cache
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.AssemblyInfo.cs
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.csproj.CoreCompileInputs.cache
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\refint\InMemoryTrans.dll
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.pdb
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\InMemoryTrans.genruntimeconfig.cache
+D:\Siemense_Problem\InMemoryTrans - Copy\InMemoryTrans\obj\Debug\net6.0\ref\InMemoryTrans.dll
